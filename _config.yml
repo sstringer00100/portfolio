@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Steven Stringer"
   avatar : "/assets/images/Round2.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Follow my projects as a I seek to use data to solve challenges facing business, research, and academia."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
