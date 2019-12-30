@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Steven Stringer"
-  avatar : "/assets/images/Round2.jpg"
+  avatar : "/assets/images/Round2.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
