@@ -64,7 +64,7 @@ author:
   links:
     - label: "Email"
       icon: "fab fa-fw fa-envelope"
-      # url: "https://"
+      url: "email"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/steven-stringer-24b21547/"
