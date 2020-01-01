@@ -63,7 +63,7 @@ author:
   bio    : "Follow my projects as a I seek to use data to solve challenges facing business, research, and personal interests."
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fab fa-fw fa-email"
       url: "email"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
