@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/Round2.png"
   bio    : "Follow my projects as a I seek to use data to solve challenges facing business, research, and personal interests."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    #- label: "Website"
+      # icon: "fas fa-fw fa-link"
+      # url: "https://"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/steven-stringer-24b21547/"
