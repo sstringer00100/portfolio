@@ -63,7 +63,7 @@ author:
   bio    : "Follow my projects as a I seek to use data to solve challenges facing business, research, and personal interests."
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-email"
+      icon: "far fa-envelope"
       url: "email"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -81,7 +81,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "far fa-envelope"
       url: "email"
 
 defaults:
