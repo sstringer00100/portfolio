@@ -64,7 +64,7 @@ author:
   links:
     - label: "Email"
       icon: "far fa-envelope"
-      url: "mailto:Stringer.StevenJ@Outlook.com"</A>
+      url: "Stringer.StevenJ@Outlook.com"</A>
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/steven-stringer-24b21547/"
@@ -82,7 +82,7 @@ footer:
       url: "https://github.com/"
     - label: "Email"
       icon: "far fa-envelope"
-      url: "mailto:Stringer.StevenJ@Outlook.com"</A>
+      url: "Stringer.StevenJ@Outlook.com"</A>
 
 defaults:
   # _posts
