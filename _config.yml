@@ -60,17 +60,17 @@ gems:
 author:
   name   : "Steven Stringer"
   avatar : "/assets/images/Round2.png"
-  bio    : "Follow my projects as a I seek to use data to solve challenges facing business, research, and personal interests."
+  bio    : "Aspiring Data Scientist | Analytics Professional | Lifetime Learner"
   links:
-    - label: "Email"
-      icon: "far fa-envelope"
-      url: email
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/steven-stringer-24b21547/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+     - label: "Email"
+      icon: "far fa-envelope"
+      url: email
 
 footer:
   links:
@@ -80,9 +80,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Email"
-      icon: "far fa-envelope"
-      url: email
+   # - label: "Email"
+    #  icon: "far fa-envelope"
+     # url: email
 
 defaults:
   # _posts
