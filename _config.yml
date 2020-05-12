@@ -60,7 +60,7 @@ gems:
 author:
   name   : "Steven Stringer"
   avatar : "/assets/images/Round2.png"
-  bio    : "Aspiring Data Scientist\|Analytics Professional\|Lifetime Learner"
+  bio    : "Aspiring Data Scientist U+01C0 Analytics Professional U+01C0 Lifetime Learner"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
