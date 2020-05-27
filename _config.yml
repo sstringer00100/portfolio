@@ -71,7 +71,7 @@ author:
       url: "https://github.com/"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: email
+      url: "mailto:Stringer.StevenJ@Outlook.com"
 
 footer:
   links:
@@ -83,7 +83,7 @@ footer:
       url: "https://github.com/"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: email
+      url: "mailto:Stringer.StevenJ@Outlook.com"
 
 defaults:
   # _posts
