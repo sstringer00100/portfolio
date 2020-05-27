@@ -81,9 +81,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-   # - label: "Email"
-    #  icon: "far fa-envelope"
-     # url: email
+    - label: "Email"
+      icon: "far fa-envelope"
+      url: email
 
 defaults:
   # _posts
