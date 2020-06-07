@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+image: /assets/images/AboutPic.png
 ---
 
 Thank you again for taking the time to view my Data Science Portfolio. I've had a long journey to the data science world and I'm glad to have the opportunity to share with you projects that I've developed along the way.  
