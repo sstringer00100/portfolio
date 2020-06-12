@@ -4,7 +4,7 @@ title: "About"
 ---
 
 <figure>
-    <a href="/assets/images/bkPic.JPG"><img src="/assets/images/bkPic.JPG"></a>
+     <img src="/assets/images/bkPic.JPG">
 </figure>
 
 Thank you again for taking the time to view my Data Science Portfolio. I've had a long journey to the data science world and I'm glad to have the opportunity to share with you projects that I've developed along the way.  
