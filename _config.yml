@@ -21,11 +21,7 @@ linkedin_username: username
 github_username: username
 minimal_mistakes_skin: contrast
 search: true
-comments:
-  provider: "utterances"
-  utterances:
-    theme: "github-light" # "github-dark"
-    issue_term: "pathname"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
