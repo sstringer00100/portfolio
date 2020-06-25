@@ -58,7 +58,7 @@ gems:
 author:
   name   : "Steven Stringer"
   avatar : "/assets/images/Round2.png"
-  bio    : "Welcome to my portfolio! I'm happy to share some of my projects with you to showcase a few of the skills I've gained through my education, work experience, and personal practice. Please feel free to peruse as many posts as you like."
+  bio    : "Welcome to my portfolio! I'm happy to share some of my projects with you to showcase the skills I've gained through my education, work experience, and personal practice. Please feel free to peruse as many posts as you like."
   location: "Dallas, TX"
   links:
     - label: "LinkedIn"
