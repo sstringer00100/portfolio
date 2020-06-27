@@ -1,4 +1,3 @@
-
 ---
 title: "Post: Standard"
 date: 2020-06-26
