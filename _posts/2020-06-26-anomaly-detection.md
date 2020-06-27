@@ -31,4 +31,4 @@ print(hellow_world())
 
 Here's some math:
 
-$z=x+y$
+$$z=x+y$$
