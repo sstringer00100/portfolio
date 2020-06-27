@@ -16,7 +16,6 @@ author_profile: false
 toc: true
 toc_sticky: true
 excerpt: "Outlier Detection, Spotting Anomalies"
-mathjax: "true"
 ---
 
 
