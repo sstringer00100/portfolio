@@ -1,12 +1,14 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
+
+Thank you again for taking the time to view my Data Science Portfolio. I've had a long journey to the data science world and I'm glad to have the opportunity to share with you projects that I've developed along the way.  
+
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/AboutPic.png" alt="">
 </figure>
 
-Thank you again for taking the time to view my Data Science Portfolio. I've had a long journey to the data science world and I'm glad to have the opportunity to share with you projects that I've developed along the way.  
 
 I’ve always had a love for learning and an eagerness to solve problems. After finishing my first master's degree in Classics, I came to realize that an academic career in the humanities was not something that would satisfy that love and eagerness in the right way for me. All throughout grad school I worked a corporate job that I had almost disregarded as a passing gig until I could leave the office grind behind and set off for a highly coveted PhD in Classics. Teaching seemed like a good fit for me, or at least I wanted it to fit me. But what I really enjoyed most was challenging studies and an environment where I could always be stretched intellectually. It was in that mundane office environment that I was lured away from the academic life and enticed to solve the real-world problems faced every day in private industry.  
 
