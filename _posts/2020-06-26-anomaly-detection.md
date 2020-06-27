@@ -8,10 +8,7 @@ header:
   overlay_image: /assets/images/bikes-unsplash.jpg
   caption: "Photo cred: [**Unsplash**](https://unsplash.com)"
   teaser: /assets/images/outlier.png  
-tags:
-  - python
-  - Machine Learning
-  - Anomaly Detection
+tags: [python, Machine Learning, Anomaly Detection]
 author_profile: false
 toc: true
 toc_sticky: true
