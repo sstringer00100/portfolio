@@ -1,6 +1,9 @@
 ---
 permalink: /about/
 title: "About Me"
+header:
+  overlay_color: "#5e616c"
+author_profile: false  
 ---
 
 Thank you again for taking the time to view my Data Science Portfolio. I've had a long journey to the data science world and I'm glad to have the opportunity to share with you projects that I've developed along the way.  
