@@ -15,7 +15,7 @@ tags:
 author_profile: false
 toc: true
 toc_sticky: true
-excerpt: "Outlier Detection, Spotting Anomalies"
+excerpt: "Using Supervized Learning to Spot Outliers
 ---
 
 
