@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "Anomaly Detection with Machine Learning"
 date: 2020-06-26
 categories:
   - Machine Learning
