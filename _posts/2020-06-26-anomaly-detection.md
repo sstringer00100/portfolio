@@ -17,9 +17,6 @@ thumbnail: /assets/images/outlier.png
 ---
 
 
-# Anomaly Detection with Machine Learning
-
-
 ```python
 def hellow_world():
     print("hello world!")
