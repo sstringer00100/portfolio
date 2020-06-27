@@ -13,6 +13,7 @@ author_profile: false
 toc: true
 toc_sticky: true
 excerpt: "Using Supervised Learning to Spot Outliers"
+thumbnail: /assets/images/outlier.png 
 ---
 
 
