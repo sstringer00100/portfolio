@@ -10,8 +10,6 @@ header:
   teaser: "/assets/images/outlier.png"  
 tags: [python, Machine Learning, Anomaly Detection]
 author_profile: false
-toc: true
-toc_sticky: true
 excerpt: "Using Supervised Learning to Spot Outliers"
 thumbnail: "/assets/images/outlier.png" 
 ---
