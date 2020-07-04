@@ -2,7 +2,6 @@
 permalink: /about/
 title: "About Me"
 header:
-  overlay_color: "#5e616c"
   overlay_image: /assets/images/lach-unsplash.jpg
   caption: "Photo cred: [**Unsplash**](https://unsplash.com)"
 author_profile: false  
