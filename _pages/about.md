@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About Me"
 header:
-  image: /assets/images/forest-pixaby.jpg
+  overlay_image: /assets/images/forest-pixaby.jpg
   caption: "Photo cred: [**Pixaby**](https://pixaby.com)"
 author_profile: false  
 ---
