@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About Me"
 header:
-  overlay_image: /assets/images/Dallas-unsplash.jpg
+  image: /assets/images/Dallas-unsplash.jpg
   caption: "Photo cred: [**Unsplash**](https://unsplash.com)"
 author_profile: false  
 ---
