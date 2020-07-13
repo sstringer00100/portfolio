@@ -7,11 +7,11 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/bikes-unsplash.jpg
   caption: "Photo cred: [**Unsplash**](https://unsplash.com)"
-  teaser: "/assets/images/standout-tree-unsplash.jpg"  
+  teaser: "/assets/images/standout-tree-unsplash.png"  
 tags: [python, Machine Learning, Anomaly Detection]
 author_profile: false
 excerpt: "Using Supervised Learning to Spot Outliers"
-thumbnail: "/assets/images/standout-tree-unsplash.jpg" 
+thumbnail: "/assets/images/standout-tree-unsplash.png" 
 ---
 
 
