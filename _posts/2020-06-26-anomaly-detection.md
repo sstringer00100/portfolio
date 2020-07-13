@@ -7,7 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/bikes-unsplash.jpg
   caption: "Photo cred: [**Unsplash**](https://unsplash.com)"
-  teaser: "/assets/images/outlier.png"  
+  teaser: "/assets/images/standout-tree-unsplash.jpg"  
 feature_row1-1:
   - image_path: /assets/images/outlier.png   
 tags: [python, Machine Learning, Anomaly Detection]
