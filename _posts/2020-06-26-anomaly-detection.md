@@ -13,7 +13,7 @@ feature_row1-1:
 tags: [python, Machine Learning, Anomaly Detection]
 author_profile: false
 excerpt: "Using Supervised Learning to Spot Outliers"
-thumbnail: "/assets/images/outlier.png" 
+thumbnail: "/assets/images/standout-tree-unsplash.jpg" 
 ---
 
 
