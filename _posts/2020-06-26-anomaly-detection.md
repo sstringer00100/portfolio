@@ -8,8 +8,6 @@ header:
   overlay_image: /assets/images/bikes-unsplash.jpg
   caption: "Photo cred: [**Unsplash**](https://unsplash.com)"
   teaser: "/assets/images/standout-tree-unsplash.jpg"  
-feature_row1-1:
-  - image_path: /assets/images/standout-tree-unsplash.jpg  
 tags: [python, Machine Learning, Anomaly Detection]
 author_profile: false
 excerpt: "Using Supervised Learning to Spot Outliers"
