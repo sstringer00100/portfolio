@@ -7,15 +7,10 @@ header:
 author_profile: false  
 ---
 
-Thank you again for taking the time to view my Data Science Portfolio. I've had a long journey to the data science world and I'm glad to have the opportunity to share with you projects that I've developed along the way.  
+#### My name is Steven and I’m a data enthusiast and aspiring Data Scientist from the DFW area.  
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/AboutPic.png" alt="">
 </figure>
 
-### No Personal Stuff -- Just Professional Skills
-
-I swapped Classics for the study of big data, statistics, and business. Now I hold a Master of Science in Business Analytics and I’ve been putting that degree to work solving real business problems in areas such as operations, marketing, and financial services. The projects I showcase here help give you as a reader an insight into what I’ve had the opportunity to work on and examples of many of the fun tools out there for data scientists. My hope is that you find something I post on this site helpful, insightful, or at the very least enjoyable. Feel free to use anything I publish on here. If you want to connect, please reach out to me on LinkedIn and I’ll be happy to respond. 
-
-Enjoy the site!
-
+I swapped a graduate career in history for the growing field of data analytics. Now I hold a Master of Science in Business Analytics and I’ve been putting that degree to work solving real business problems in areas such as operations, marketing, and finance. Through my education and professional experince I've developed a strong background in laguages including Python, R, SAS, and SQL.  
