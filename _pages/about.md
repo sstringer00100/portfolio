@@ -7,11 +7,11 @@ header:
 author_profile: false  
 ---
 
-#### My name is Steven and I’m a data enthusiast and aspiring Data Scientist from the DFW area.  
+#### My name is Steven and I’m a data scientist from North Texas.  
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Linkedin_SAS.jpg" alt="">
 </figure>
 
-I swapped a graduate career in history for the growing field of data analytics. Now I hold a Master of Science in Business Analytics and I’ve been putting that degree to work solving real business problems in areas such as operations, marketing, and finance. Through my education and professional experince I've developed a strong background in laguages including Python, R, SAS, and SQL.  
+I'm a data analyst and data scientist currently working as Senior Credit Risk Analyst in personal lending. I specialize in...
 
