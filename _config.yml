@@ -58,11 +58,11 @@ gems:
 author:
   name   : "Steven Stringer"
   avatar : "/assets/images/Round2.png"
-  bio    : Data Dude & History Geek
+  bio    : Data Enthusiast & History Geek
   location: "DFW, TX"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-envelope"
       url: mailto:stringer.stevenj@outlook.com
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -76,6 +76,9 @@ author:
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: mailto:stringer.stevenj@outlook.com
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/steven-stringer-24b21547/"
