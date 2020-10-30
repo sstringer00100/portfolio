@@ -2,7 +2,7 @@
 
 
 
-Check out the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes) to start your own site.
+Check out the [minimalmistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes) to start your own site.
 
 ---
 
