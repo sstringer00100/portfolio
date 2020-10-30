@@ -1,4 +1,4 @@
-# My Data Science Portfolio Using The minimalmistakes Theme 
+# My Data Science Portfolio Using minimalmistakes Theme 
 
 
 
